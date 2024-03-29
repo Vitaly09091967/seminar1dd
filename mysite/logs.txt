@@ -1,0 +1,5 @@
+INFO:root:Посещение главной страницы
+WARNING:django.request:Not Found: /favicon.ico
+INFO:root:Посещение главной страницы
+INFO:root:Посещение главной страницы
+INFO:root:Посещение страницы "О себе"
